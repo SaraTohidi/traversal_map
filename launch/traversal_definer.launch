@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+<node pkg="traversal_map" name="traversal_map" type="traversal_map" output="screen">
+                <param name="threshold_" type="double" value="1.5" />
+		<param name="point_cloud" type="string" value="/octomap_point_cloud_centers" />
+                <param name="x_" type="double" value="10" />
+                <param name="y_" type="double" value="6" />
+</node>
+</launch>
