@@ -1,0 +1,7 @@
+<class_libraries>
+  <library path="lib/libtraversal_map_layer">
+    <class name="traversal_plugin" type="traversal_map::TraversalArea" base_class_type="costmap_2d::GenericPluginConfig">
+      <description>A 2.5D Occupancy grid layer for costmap</description>
+    </class>
+  </library>
+</class_libraries>
