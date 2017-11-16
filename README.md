@@ -4,7 +4,7 @@ A 2D Occupancy Grid for CostMap by specifying traversal and non-traversal area d
 
 ### usage
 ```markdown
-We assume you have an Ubuntu 16.04(Xenial). Follow steps blow after you install ROS Kinetic Kame. 
+On this assumption you have an Ubuntu 16.04(Xenial) and you have installed ROS Kinetic Kame. Also, you have an autonomous robot. You need a 2D Occupancy Grid to help your robot undrestand traversal area to navigate.
 ```
 ### Download the pakage
 ```markdown
